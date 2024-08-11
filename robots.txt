@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://alenouse.github.io/sitemap.html.gz
+Sitemap: https://alenouse.github.io/app/sitemap.html.gz
+Sitemap: https://alenouse.github.io/assets/sitemap.html.gz
+Sitemap: https://alenouse.github.io/css/sitemap.html.gz
+Sitemap: https://alenouse.github.io/includes/sitemap.html.gz
+Sitemap: https://alenouse.github.io/item/sitemap.html.gz
+Sitemap: https://alenouse.github.io/src/sitemap.html.gz
